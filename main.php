@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main</title>
-    <link rel="stylesheet" href="index.css">
+    <title>Ujicoba PHP</title>
 </head>
 <body>
-    <h1>ini adalah halaman utama</h1>
-    <h2>Kalimat kedua dari halaman utama</h2>
-    <a href="main.php">Silahkan pindah kehalaman selanjutnya</a>
+    <?php
+    $echo "Hello World"
+    $echo "Ujicoba Developer"
+    ?>
 </body>
 </html>
