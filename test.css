@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:darkgrey;
+    border: 2px solid navy;
+    font-size: 24px;
+    color:greenyellow;
+}
+.sapaan{
+    font-size: 16px;
+    color:darkorange;
+}
